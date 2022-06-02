@@ -36,7 +36,7 @@ education:
     - course: BEng in Materials of Science and Engineering
       institution: University of Science and Technology
       year: 2019
-email: "shangj2018@nanoctr.cn; jinshangacademic@163.com"
+email: "shangj2018@nanoctr.cn; jinshangacademic@163.com; shangseanjin@163.com"
 superuser: true
 highlight_name: true
 ---
