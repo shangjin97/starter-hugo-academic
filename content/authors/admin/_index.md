@@ -1,8 +1,8 @@
 ---
 title: Jin Shang
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Soft electronics and materials engineer
+bio: My research interests include soft bio-electronics, liquid metals and
+  motion health monitoring.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
