@@ -43,6 +43,5 @@ highlight_name: true
 
 Jin Shang obtained his bachelor's degree in Materials of Science and Engineering from the University of Science and Technology Beijing in 2019 and master's degree in University of Copenhagen and University of Chinese Academy of Sciences and working in Department of Biomedical Engineering Southern University of Science and Technology and National Center for Nanoscience and Technology. His research interests include liquid metal based motion detection sensors and wearable soft electronics for biomedical engineering. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
