@@ -1,5 +1,5 @@
 ---
-title: 'Multilayered electronic transfer tattoo that can enable the crease amplification effect'
+title: 'Wet-Adhesive Elastomer for Liquid Metal-Based Conformal Epidermal Electronics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,7 +14,7 @@ date: '2021-01-13 T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-01-13T00:00:00Z'
+publishDate: '2022-03-13T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,13 +23,13 @@ publishDate: '2021-01-13T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Science Advances*
-publication_short: In *Science Advances*
+publication: In *Advanced Functional Materials*
+publication_short: In *Advanced Functional Materials*
 
-abstract: Electronic tattoos have great potential in health and movement sensing applications on the skin. However, existing electronic tattoos cannot be conformal, sticky, and multilayered at the same time. Here, we have achieved multilayered integration of the electronic tattoo that is highly stretchable (800%), conformal, and sticky. This electronic tattoo can enable the crease amplification effect, which can amplify the output signal of integrated strain sensors by three times. The tattoo can be transferred to different surfaces and form a firm attachment, where no solvent or heat is needed. The tattoo fabrication is straightforward and scalable; a layer-by-layer strategy and two materials (metal-polymer conductors and the elastomeric block copolymer) are used to fabricate the circuit module with desirable numbers of layers within the tattoo. A three-layered tattoo integrating 1 heater and 15 strain sensors is developed for temperature adjustment, movement monitoring, and remote control of robots.
+abstract: Wearable electronics are increasingly used in health monitoring and treatment in different conditions. However, few devices can adhere conformally to the skin after sports and showers (sweating, deformation, friction). Here, a facile method is presented by providing a metal-polymer conductor (MPC) made with polyethylene glycol (PEG) blended polydimethylsiloxane (PDMS) based adhesive (PPA) that encapsulates gallium-based liquid metal alloy circuits as epidermal electronics. Adding PEG into PDMS prepolymer can result in a softer and wet-adhesive elastomer that can bear larger deformation than PDMS itself. The soft and adhesive electronics can adhere to the skin conformally for more than 2 d. It has been demonstrated that these electronics can meet the needs of motion detection, electrophysiological signal detection and skin wound healing during a 48 h wearing with sports and shower. It is expected that the wet-adhesive electronic with excellent biosafety can be widely used and solve existing problems in medical adhesives and human–machine interfaces.
 
 # Summary. An optional shortened abstract.
-summary: Electronic tattoos have great potential in health and movement sensing applications on the skin.
+summary: Wearable electronics are increasingly used in health monitoring and treatment in different conditions. The soft and adhesive electronics can adhere to the skin conformally for more than 2 d. 
 
 tags: []
 
@@ -53,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Jin Shang**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [** **](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
