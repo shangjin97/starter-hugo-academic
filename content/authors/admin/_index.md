@@ -46,4 +46,4 @@ Jin Shang obtained his bachelor's degree in Materials of Science and Engineering
 Email: shangj2018@nanoctr.cn
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "CV-ShangJin-202206.pdf" "newtab" >}}resumé{{< /staticref >}}.
