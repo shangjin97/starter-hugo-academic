@@ -26,8 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: shangj2018@nanoctr.cn
-  phone: +86 18810528067
-  Wechat:18810528067
+  phone: +86 18810528067 
  -->
 design:
   columns: '2'
