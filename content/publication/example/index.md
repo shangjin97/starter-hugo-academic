@@ -29,7 +29,7 @@ publication_short: In *Science Advances*
 abstract: Electronic tattoos have great potential in health and movement sensing applications on the skin. However, existing electronic tattoos cannot be conformal, sticky, and multilayered at the same time. Here, we have achieved multilayered integration of the electronic tattoo that is highly stretchable (800%), conformal, and sticky. This electronic tattoo can enable the crease amplification effect, which can amplify the output signal of integrated strain sensors by three times. The tattoo can be transferred to different surfaces and form a firm attachment, where no solvent or heat is needed. The tattoo fabrication is straightforward and scalable; a layer-by-layer strategy and two materials (metal-polymer conductors and the elastomeric block copolymer) are used to fabricate the circuit module with desirable numbers of layers within the tattoo. A three-layered tattoo integrating 1 heater and 15 strain sensors is developed for temperature adjustment, movement monitoring, and remote control of robots.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Electronic tattoos have great potential in health and movement sensing applications on the skin.
 
 tags: []
 
@@ -53,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Jin Shang**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
@@ -62,23 +62,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
