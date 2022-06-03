@@ -1,5 +1,5 @@
 ---
-title: 'Multilayered electronic transfer tattoo that can enable the crease amplification effect'
+title: 'Metal-hygroscopic polymer conductors that can secrete solders for connections in stretchable devices'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,7 +14,7 @@ date: '2021-01-13 T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-01-13T00:00:00Z'
+publishDate: '2020-01-13T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,13 +23,13 @@ publishDate: '2021-01-13T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Science Advances*
-publication_short: In *Science Advances*
+publication: In *Materials Horizons*
+publication_short: In *Materials Horizons*
 
-abstract: Electronic tattoos have great potential in health and movement sensing applications on the skin. However, existing electronic tattoos cannot be conformal, sticky, and multilayered at the same time. Here, we have achieved multilayered integration of the electronic tattoo that is highly stretchable (800%), conformal, and sticky. This electronic tattoo can enable the crease amplification effect, which can amplify the output signal of integrated strain sensors by three times. The tattoo can be transferred to different surfaces and form a firm attachment, where no solvent or heat is needed. The tattoo fabrication is straightforward and scalable; a layer-by-layer strategy and two materials (metal-polymer conductors and the elastomeric block copolymer) are used to fabricate the circuit module with desirable numbers of layers within the tattoo. A three-layered tattoo integrating 1 heater and 15 strain sensors is developed for temperature adjustment, movement monitoring, and remote control of robots.
+abstract: Wearable electronics have great potential to enable seamless human–machine interfaces and can dramatically improve the quality of life by using advanced monitoring and therapeutic devices. Despite great progress in wearable devices, very few wearable devices can be both highly integrable and stretchable (strain >100%) due to the lack of reliable connections between the soft conductors and rigid electronics. Here, we report highly stretchable metal-hygroscopic polymer conductors that can secrete solders for connections. Propelled by changing humidity, liquid metal particles within conductors will merge and erupt, providing electrical connections for electronics, while the coated adhesive can provide mechanical connections. Thus, rigid electronics can be stably connected on conductors by pressure, with no extra solder, solvent or heat being required. The stable connections and high stretchability of the conductors (105 S m−1 at a strain of 800%) allow integrated electronics to stretch to a strain of 150%. We have created a stretchable, integrated device that is double-sided and multi-layered and it can sense the oxygen saturation in blood, heart rate, strain and temperature.
 
 # Summary. An optional shortened abstract.
-summary: Electronic tattoos have great potential in health and movement sensing applications on the skin.
+summary: We have created a stretchable, integrated device that is double-sided and multi-layered and it can sense the oxygen saturation in blood, heart rate, strain and temperature.
 
 tags: []
 
