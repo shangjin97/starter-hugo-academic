@@ -1,12 +1,12 @@
 ---
 title: Jin Shang
-role: Soft electronics and materials engineer
+role: Soft electronics & Biomedical engineering
 bio: My research interests include soft bio-electronics, liquid metals and
   motion health monitoring.
 interests:
   - Soft Electronics
-  - Motion and health monitoring
-  - Human-machine interaction
+  - Biomedical sensors
+  - Human-machine interface
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,7 +24,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jin-shang-84990b210/
 organizations:
-  - name: Sustech UCAS UCPH
+  - name: UCAS UCPH Sustech 
 education:
   courses:
     - course: MSc in Nanoscience and Technology
@@ -41,7 +41,7 @@ superuser: true
 highlight_name: true
 ---
 
-Jin Shang obtained his bachelor's degree in Materials of Science and Engineering from the University of Science and Technology Beijing in 2019 and master's degree in University of Copenhagen and University of Chinese Academy of Sciences and working in Department of Biomedical Engineering Southern University of Science and Technology and National Center for Nanoscience and Technology. His research interests include liquid metal based motion detection sensors and wearable soft electronics for biomedical engineering. 
+Jin Shang obtained his bachelor's degree in Materials of Science and Engineering from the University of Science and Technology Beijing in 2019 and master's degree in University of Copenhagen and University of Chinese Academy of Sciences and working in Department of Biomedical Engineering Southern University of Science and Technology and National Center for Nanoscience and Technology. His research interests include soft electronics for biomedical engineering. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
