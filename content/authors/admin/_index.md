@@ -43,5 +43,5 @@ highlight_name: true
 
 Jin Shang obtained his bachelor's degree in Materials of Science and Engineering from the University of Science and Technology Beijing in 2019 and master's degree in University of Copenhagen and University of Chinese Academy of Sciences and working in Department of Biomedical Engineering Southern University of Science and Technology and National Center for Nanoscience and Technology. His research interests include soft electronics for biomedical engineering. Journal articles were publishd in Science Advances, Advanced Functional Materials and Materials Horizons.
 
-Email: shangj2018@nanoctr.cn
+Email: shangj2018@nanoctr.cn  shangseanjin@163.com
 
